@@ -15,4 +15,5 @@ link2: https://www.aliexpress.com/item/1005001702490864.html
 link3: 
 ---
 
-Comes under diffent brands such as Zemismart, MoesHouse and Livolo
+Comes under diffent brands such as Zemismart, MoesHouse and Livolo.
+Reset by turning on then hold "set" and "down" buttons.
